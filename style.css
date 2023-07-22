@@ -235,35 +235,36 @@ label{
 .name2 img{
     width: 15px;
 }
-.name2{
+.name2 {
     margin-top: 12px;
+    font-size: 89%;
 }
 
 
 
 .green_circle0 {
     position: relative;
-    right: 173px;
+    right: 155px;
     top: 8px;
 }
 .green_circle1 {
     position: relative;
-    right: 83px;
+    right: 75px;
     top: 8px;
 }
 .green_circle2 {
     position: relative;
-    right: 176px;
+    right: 158px;
     top: 8px;
 }
 .green_circle3 {
     position: relative;
-    right: 180px;
+    right: 161px;
     top: 8px;
 }
 .green_circle4 {
     position: relative;
-    right: 108px;
+    right: 97px;
     top: 6px;
 }
 
